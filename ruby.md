@@ -1,0 +1,1 @@
+- [ruby Enumerator](https://moneyforward-dev.jp/entry/2020/02/04/ruby-enumerator/)
